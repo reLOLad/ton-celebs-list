@@ -12,7 +12,7 @@ This repository contains a list of notable figures in the TON ecosystem.
 ```json
 {
   "name": "Full Name",
-  "description": "Role/Position",
+  "description": "Role/Position/Project",
   "walletAddress": "TON Wallet Address",
   "imageUrl": "URL to profile image (optional)"
 }
@@ -28,7 +28,7 @@ This repository contains a list of notable figures in the TON ecosystem.
 ```json
 {
   "name": "Полное имя",
-  "description": "Роль/Должность",
+  "description": "Роль/Должность/Проект",
   "walletAddress": "TON адрес кошелька",
   "imageUrl": "URL изображения профиля (опционально)"
 }
