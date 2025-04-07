@@ -34,7 +34,7 @@
       "name": "Aleksandr Shepelev",
       "description": "xRocket",
       "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
-    }
+    },
     {
       "name": "Vlad Sepezho",
       "description": "EVAA",
@@ -49,10 +49,15 @@
       "name": "Ilya Bulychev",
       "description": "Farmix",
       "walletAddress": "UQC228vvLVzjK4t7CUfRhlQuxJqfB5sJzAZNEilvbpY6CzZk"
-    }
+    },
     {
       "name": "Anna Create",
       "description": "https://t.me/miulog",
       "walletAddress": "UQARFF7q1nV13E53Q6SPMPu5VaQ27YYUfLjdYCJYlC231WEN"
+    },
+    {
+      "name": "Meta",
+      "description": "https://t.me/metasalience",
+      "walletAddress": "UQC6X5Vy8ST8Dnn5hVer8yY5xBK-Qm9IHmDgLLsHveRvjxrq"
     }
   ] 
