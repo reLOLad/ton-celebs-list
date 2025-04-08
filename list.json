@@ -36,9 +36,37 @@
       "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
     },
     {
-      "name": "Heydenis",
-      "description": "cryptodays",
-      "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
-      "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
+      "name": "Evilzeus",
+      "description": "Life in the Crypto",
+      "walletAddress": "UQDzvMrhLQFR8jUUgHQngDSbtcNExqPxvEt2_cWDpS2vnEqx"
+    },
+    {
+      "name": "Ilya Setsko",
+      "description": "FPIBank",
+      "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg"
+      "imageUrl": "https://static.wikia.nocookie.net/nowkie/images/e/e0/Nowkie_and_Sori.jpg/revision/latest?cb=20230711113638&path-prefix=ru"
+    },
+    {
+      "name": "КриптоДед",
+      "description": "Автор Канала КриптоДед",
+      "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
+      "imageUrl": "https://ibb.co/hxZcQDQv"
+    },
+    {
+      "name": "Alexey Toropov",
+      "description": "TON Society",
+      "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m"
+    },
+    {
+      "name": "w0rm bLue",
+      "description": "Club 100",
+      "walletAddress": "UQD3L3R9zVwobj7b3gdieI5_JgYgXQ_kMwRRCHSxjLIbH47c",
+      "imageUrl": "https://static10.tgstat.ru/channels/_0/cb/cb90466fb8b61f267e132602cecd4c34.jpg"
+    },
+    {
+        "name": "Heydenis",
+        "description": "cryptodays",
+        "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
+        "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
     }
-  ] 
+  ]
