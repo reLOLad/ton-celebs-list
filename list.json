@@ -153,5 +153,10 @@
       "description": "https://t.me/konenkov_official",
       "imageUrl": "https://cryptorussia.ru/wp-content/uploads/2024/05/svyatoslav-konenkov.png",
       "walletAddress": "UQBQKxNqoEm5OCsSKsD9DA-AN3xnE1H7fbHCrpsUTwAKPRg-"
+    },
+    {
+      "name": "prakha", 
+      "description": "https://t.me/zeroxcholy",
+      "walletAddress": "UQB0c39gPMNCsGMZI146Lf1UvWuLJSPI-tGua7WX-il1ToFw"
     }
   ]
