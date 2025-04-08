@@ -94,5 +94,11 @@
         "description": "aquaprotocol",
         "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+    },
+    {
+      "name": "Anton Toroptsev",
+      "description": "Blum COO",
+      "imageUrl": "https://media.licdn.com/dms/image/C4D22AQGUW4Uyz1rzbQ/feedshare-shrink_2048_1536/0/1580485666774?e=2147483647&v=beta&t=e_vJXjCBToC2JCytX_gbcHDAzkaQLHIwve_dDQlE5jg",
+      "walletAddress": "UQAmrolluFXSz9un62hUirW5WQuNNLWltCJV4j3jTpULh8bR"
     }
   ]
