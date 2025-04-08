@@ -36,15 +36,20 @@
       "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
     },
     {
+      "name": "Evilzeus",
+      "description": "Life in the Crypto",
+      "walletAddress": "UQDzvMrhLQFR8jUUgHQngDSbtcNExqPxvEt2_cWDpS2vnEqx"
+    },
+    {
       "name": "Ilya Setsko",
       "description": "FPIBank",
       "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg"
       "imageUrl": "https://static.wikia.nocookie.net/nowkie/images/e/e0/Nowkie_and_Sori.jpg/revision/latest?cb=20230711113638&path-prefix=ru"
+    },
+    {
+      "name": "КриптоДед",
+      "description": "Автор Канала КриптоДед",
+      "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
+      "imageUrl": "https://ibb.co/hxZcQDQv"
     }
-  ] 
-{
-  "name": "КриптоДед",
-  "description": "Автор Канала КриптоДед",
-  "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
-  "imageUrl": "https://ibb.co/hxZcQDQv"
-}
+  ]
