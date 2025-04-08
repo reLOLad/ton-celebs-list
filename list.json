@@ -68,5 +68,11 @@
         "description": "cryptodays",
         "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
         "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
+    },
+    {
+        "name": "Brazo",
+        "description": "Vibes",
+        "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
+        "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
     }
   ]
