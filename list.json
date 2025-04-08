@@ -92,5 +92,23 @@
         "description": "aquaprotocol",
         "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
-    }
+    }, 
+    {
+      "name": "zicelaqo",
+      "description": "admin zicelaqo, otc gift",
+      "walletAddress": "UQDdDgn4j6YNOvwfcvGsY0pmJ8xWNLNe6igTsIIOGKa5AKuF",
+      "imageUrl": "https://static4.tgstat.ru/channels/_0/26/2605443991f3de9e8dbda01beb2d385b.jpg"
+    },
+    {
+      "name": "Alex MVP",
+      "description": "admin Alex MVP",
+      "walletAddress": "UQAB4ZZNoscSYiam1bR632LCBZgHdGoEKJUS2znAWf0C3aAt",
+      "imageUrl": "https://static5.tgstat.ru/channels/_0/40/40574f50b84c16f3baab002cfcd3eaf3.jpg"
+    },
+    {
+      "name": "BatyaEvgenAdmin",
+      "description": "Админ канала Отцовское общество",
+      "walletAddress": "UQA1n02l2q1FogpAgJhxUY4OzLp0cqJrKAEBK6w6ZZD3rkiw",
+      "imageUrl": "https://static10.tgstat.ru/channels/_0/e9/e9395c1bde63c9f3292b9d2a7e6fc71d.jpg"
+    }
   ]
