@@ -147,5 +147,11 @@
       "description": "Blum CTO",
       "imageUrl": "https://ibb.co/WWTHNDfG",
       "walletAddress": "UQAUPvwAt57VuqYvGDWkfubIz_RhmUcCUhTKsJx8NcMMF7Og"
+    },
+    {
+      "name": "Svyatoslav Konenkov",
+      "description": "https://t.me/konenkov_official",
+      "imageUrl": "https://cryptorussia.ru/wp-content/uploads/2024/05/svyatoslav-konenkov.png",
+      "walletAddress": "UQBQKxNqoEm5OCsSKsD9DA-AN3xnE1H7fbHCrpsUTwAKPRg-"
     }
   ]
