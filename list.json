@@ -94,5 +94,11 @@
         "description": "aquaprotocol",
         "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+    },
+    {
+        "name": "Пескарь",
+        "description": "Split.tg",
+        "walletAddress": "UQAsl59qOy9C2XL5452lGbHU9bI3l4lhRaopeNZ82NRK8iSF",
+        "imageUrl": "https://raw.githubusercontent.com/shibdev/logo/refs/heads/main/Pes.png"
     }
   ]
