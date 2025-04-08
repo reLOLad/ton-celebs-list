@@ -51,5 +51,10 @@
       "description": "Автор Канала КриптоДед",
       "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
       "imageUrl": "https://ibb.co/hxZcQDQv"
+    },
+    {
+      "name": "Alexey Toropov",
+      "description": "TON Society",
+      "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m"
     }
   ]
