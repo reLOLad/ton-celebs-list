@@ -43,7 +43,7 @@
     {
       "name": "Ilya Setsko",
       "description": "FPIBank",
-      "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg"
+      "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg",
       "imageUrl": "https://static.wikia.nocookie.net/nowkie/images/e/e0/Nowkie_and_Sori.jpg/revision/latest?cb=20230711113638&path-prefix=ru"
     },
     {
@@ -92,5 +92,11 @@
         "description": "aquaprotocol",
         "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+    },
+    {
+        "name": "Igor Overbafer",
+        "description": "GOVNO token",
+        "walletAddress": "UQCOnL8lfqb8ZEHbkR8_DzoCj7YCNZPQ84X2xMdc8ijLt1Pt",
+        "imageUrl": "https://lastfm.freetls.fastly.net/i/u/ar0/5c394ac84eee224c8f04e75e35636947.jpg"
     }
-  ]
+]
