@@ -175,5 +175,10 @@
       "description": "TON Ventures",
       "imageUrl": "https://indiagdc.com/wp-content/uploads/2023/10/Inal-Kardanov-TON-Foundation.png",
       "walletAddress": "UQBw34IV4UHIZENkYc0FStO-qu_NcI7Woa53q7vLugBhcVti"
+    },
+    {
+      "name": "Beybut",
+      "description": "Founder / CEO Donuts.tg",
+      "walletAddress": "UQALyrWQNCxR3RFcape5ZMxClDHpySrEO93lQiaM9ZWUnFUT"
     }
   ]
