@@ -92,5 +92,11 @@
         "description": "aquaprotocol",
         "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+    },
+    {
+        "name": "Rostislav Vr",
+        "description": "Diamond Bazar",
+        "walletAddress": "UQAkbIA32zna94YX1Oii371zF-CHOPHB8DLIJa1QBcdNNDRv",
+        "imageUrl": "https://static1.tgstat.ru/channels/_0/80/808062b11b3fa787609b34dbb67a570d.jpg"
     }
   ]
