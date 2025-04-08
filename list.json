@@ -14,17 +14,20 @@
     {
       "name": "Andrey Rogozov",
       "description": "The Open Platform",
-      "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz"
+      "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz",
+      "imageUrl": "https://www.sostav.ru/images/news/2021/03/30/ca9z4x0a.png"
     },
     {
       "name": "Alena Shmalko",
       "description": "TON Foundation",
-      "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN"
+      "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN",
+      "imageUrl": "https://i.ibb.co/5XRhjGCk/Screenshot-2025-04-08-at-17-18-24.png"
     },
     {
       "name": "Michele Inetovsky",
       "description": "swap.coffee",
-      "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF"
+      "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF",
+      "imageUrl": "https://i.ibb.co/spD5DBGL/2025-04-08-17-20-12.jpg"
     },
     {
       "name": "Manuel Stotz",
@@ -35,7 +38,8 @@
     {
       "name": "Aleksandr Shepelev",
       "description": "xRocket",
-      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
+      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK",
+      "imageUrl": "https://i.ibb.co/35jbrHTH/1535785064287.jpg"
     },
     {
       "name": "Evilzeus",
@@ -52,12 +56,13 @@
       "name": "КриптоДед",
       "description": "Автор Канала КриптоДед",
       "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
-      "imageUrl": "https://ibb.co/hxZcQDQv"
+      "imageUrl": "https://i.ibb.co/35Mv6B6H/avaOncl.png"
     },
     {
       "name": "Alexey Toropov",
       "description": "TON Society",
-      "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m"
+      "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m",
+      "imageUrl": "https://i.ibb.co/BKtR4pxd/1722775701210.jpg"
     },
     {
       "name": "w0rm bLue",
