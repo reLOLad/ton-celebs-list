@@ -163,5 +163,11 @@
       "name": "Sonya",
       "description": "Hydra Founder",
       "walletAddress": "UQDrs0xYdwqerhATcPAezRWaXTXXqkoMGpB-kK6PlkylCdK8"
+    },
+    {
+      "name": "Marat khamidullov",
+      "description": "CMO Axiomica Lab",
+      "imageUrl": "https://ibb.co/dRNy1V8",
+      "walletAddress": "UQCw5YegJa7cDk54A_1gR6gxqi8j5TZQEtyZm-0XeYnK8QkR"
     }
   ]
