@@ -33,7 +33,7 @@
       "name": "Manuel Stotz",
       "description": "TON Foundation",
       "walletAddress": "UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV",
-      "imageUrl":"https://mecollabevents.com/wp-content/uploads/2023/02/Manuel-Stotz-768x987.jpg"
+      "imageUrl": "https://mecollabevents.com/wp-content/uploads/2023/02/Manuel-Stotz-768x987.jpg"
     },
     {
       "name": "Aleksandr Shepelev",
@@ -71,33 +71,87 @@
       "imageUrl": "https://static10.tgstat.ru/channels/_0/cb/cb90466fb8b61f267e132602cecd4c34.jpg"
     },
     {
-        "name": "Heydenis",
-        "description": "cryptodays",
-        "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
-        "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
+      "name": "Heydenis",
+      "description": "cryptodays",
+      "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
+      "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
     },
     {
-        "name": "Brazo",
-        "description": "Vibes",
-        "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
-        "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
+      "name": "Brazo",
+      "description": "Vibes",
+      "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
+      "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
     },
     {
-        "name": "Malena Rioni",
-        "description": "TON Georgia",
-        "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
-        "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
+      "name": "Malena Rioni",
+      "description": "TON Georgia",
+      "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
+      "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
     },
     {
-        "name": "Stanislav",
-        "description": "ton2k",
-        "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
-        "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
+      "name": "Stanislav",
+      "description": "ton2k",
+      "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
+      "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
     },
     {
-        "name": "Julia Innovator",
-        "description": "aquaprotocol",
-        "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
-        "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+      "name": "Julia Innovator",
+      "description": "aquaprotocol",
+      "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
+      "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+    },
+    {
+      "name": "Kirill Malev",
+      "description": "ex TOP partner",
+      "walletAddress": "UQCnM2nIemDP3fRihoXiuyo8ETt0LILd1LUqFlZba7nErMv_",
+      "imageUrl": ""
+    },
+    {
+      "name": "Narek",
+      "description": "TON Tech",
+      "walletAddress": "UQD4FPq-PRDieyQKkizFTRtSDyucUIqrj0v_zXJmqaDp6_0t",
+      "imageUrl": ""
+    },
+    {
+      "name": "Oleg Illarionov",
+      "description": "Tonkeeper",
+      "walletAddress": "UQDpoHxlmYzVN9asLEyd3XOimSlVJxATKMhzWFCMy_ho-sjt",
+      "imageUrl": ""
+    },
+    {
+      "name": "Ivan Gusev",
+      "description": "GetGems",
+      "walletAddress": "UQAFD1-qFIhe9sS-Zm9Nfpo9b_OBS2O0RUEsBuS0lG9APzm6",
+      "imageUrl": ""
+    },
+    {
+      "name": "Mikhail Gavrilov",
+      "description": "TON Play",
+      "walletAddress": "UQCqGkIFGmuV-zVZf1RaEFGCfvbxI9yiLSErpP-nLChJ9VGF",
+      "imageUrl": ""
+    },
+    {
+      "name": "Sergey Udin",
+      "description": "Whales",
+      "walletAddress": "UQABKYFl0SWU72G6Vq123zdQ1w_8gn3kWv5eYPohCxOZH8J_",
+      "imageUrl": ""
+    },
+    {
+      "name": "Steve Yun",
+      "description": "TON Foundation",
+      "walletAddress": "UQBnE7V2jE09hWkCg4FmkFr2GvYRtvzZCDbn1akZBT4mag3F",
+      "imageUrl": ""
+    },
+    {
+      "name": "Tolya Yanot",
+      "description": "TON Core",
+      "walletAddress": "UQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG",
+      "imageUrl": ""
+    },
+    {
+      "name": "Oleg Andreev",
+      "description": "Tonkeeper",
+      "walletAddress": "UQBRDYsAf7s8EwxeU4nrrmmU_RjNDVNrt7Dj83vYczPpTyIY",
+      "imageUrl": ""
     }
   ]
