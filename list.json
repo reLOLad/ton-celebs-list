@@ -106,5 +106,10 @@
       "description": "Founder X Empire",
       "imageUrl": "https://info-hit.ru/upload/iblock/941/jfPCjTKUHWA.jpg",
       "walletAddress": "UQAMkZm7UI0MTiztMWk6XsH0NIQWNkxVc7q9LBiVOgWaGlBQ"
+    },
+    {
+      "name": "RocketMan",
+      "description": "Xrocket CEO RocketMan",
+      "walletAddress": "UQBeSVbf7VzXMA4xbBQtR8tniXxubZOfTmEPLvE5KkAQiBDb"
     }
   ]
