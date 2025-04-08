@@ -1,184 +1,189 @@
 [
-    {
-      "name": "Pavel Durov",
-      "description": "Telegram",
-      "walletAddress": "UQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinf4K",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg/640px-TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg"
-    },
-    {
-      "name": "Vudi Kingyru",
-      "description": "Investment Kingyru 💎",
-      "walletAddress": "UQAj-RQTlNNwjkuRVYWdfamU0jjvQbH31lkxTw-osulj4tdj",
-      "imageUrl": "https://i.ibb.co/qF132C2Z/Screenshot-2025-04-08-at-16-28-02.png"
-    },
-    {
-      "name": "Andrey Rogozov",
-      "description": "The Open Platform",
-      "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz"
-    },
-    {
-      "name": "Alena Shmalko",
-      "description": "TON Foundation",
-      "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN"
-    },
-    {
-      "name": "Michele Inetovsky",
-      "description": "swap.coffee",
-      "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF"
-    },
-    {
-      "name": "Manuel Stotz",
-      "description": "TON Foundation",
-      "walletAddress": "UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV",
-      "imageUrl":"https://mecollabevents.com/wp-content/uploads/2023/02/Manuel-Stotz-768x987.jpg"
-    },
-    {
-      "name": "Aleksandr Shepelev",
-      "description": "xRocket",
-      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
-    },
-    {
-      "name": "Evilzeus",
-      "description": "Life in the Crypto",
-      "walletAddress": "UQDzvMrhLQFR8jUUgHQngDSbtcNExqPxvEt2_cWDpS2vnEqx"
-    },
-    {
-      "name": "Ilya Setsko",
-      "description": "FPIBank",
-      "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg",
-      "imageUrl": "https://i.ibb.co/GQJTwpn5/Screenshot-2025-04-08-at-16-25-00.png"
-    },
-    {
-      "name": "КриптоДед",
-      "description": "Автор Канала КриптоДед",
-      "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
-      "imageUrl": "https://ibb.co/hxZcQDQv"
-    },
-    {
-      "name": "Alexey Toropov",
-      "description": "TON Society",
-      "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m"
-    },
-    {
-      "name": "w0rm bLue",
-      "description": "Club 100",
-      "walletAddress": "UQD3L3R9zVwobj7b3gdieI5_JgYgXQ_kMwRRCHSxjLIbH47c",
-      "imageUrl": "https://static10.tgstat.ru/channels/_0/cb/cb90466fb8b61f267e132602cecd4c34.jpg"
-    },
-    {
-        "name": "Heydenis",
-        "description": "cryptodays",
-        "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
-        "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
-    },
-    {
-        "name": "Brazo",
-        "description": "Vibes",
-        "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
-        "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
-    },
-    {
-        "name": "Malena Rioni",
-        "description": "TON Georgia",
-        "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
-        "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
-    },
-    {
-        "name": "Stanislav",
-        "description": "ton2k",
-        "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
-        "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
-    },
-    {
-        "name": "Julia Innovator",
-        "description": "aquaprotocol",
-        "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
-        "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
-    },
-    {
-      "name": "Anton Toroptsev",
-      "description": "Blum COO",
-      "imageUrl": "https://media.licdn.com/dms/image/C4D22AQGUW4Uyz1rzbQ/feedshare-shrink_2048_1536/0/1580485666774?e=2147483647&v=beta&t=e_vJXjCBToC2JCytX_gbcHDAzkaQLHIwve_dDQlE5jg",
-      "walletAddress": "UQAmrolluFXSz9un62hUirW5WQuNNLWltCJV4j3jTpULh8bR"
-    },
-    {
-      "name": "Alexander Sokolovskiy",
-      "description": "Founder X Empire",
-      "imageUrl": "https://info-hit.ru/upload/iblock/941/jfPCjTKUHWA.jpg",
-      "walletAddress": "UQAMkZm7UI0MTiztMWk6XsH0NIQWNkxVc7q9LBiVOgWaGlBQ"
-    },
-    {
-      "name": "RocketMan",
-      "description": "Xrocket CEO RocketMan",
-      "walletAddress": "UQBeSVbf7VzXMA4xbBQtR8tniXxubZOfTmEPLvE5KkAQiBDb"
-    },
-    {
-      "name": "k_Mapkc",
-      "description": "https://t.me/marx_capital",
-      "walletAddress": "UQBuc_pGbNe3XOXA83-5DtZGhJnRRR66nuOwEISo2SyKKuUt"
-    },
-    {
-      "name": "Mr. Fridayboy",
-      "description": "Influencer DFC",
-      "walletAddress": "UQD4XmYu08LnTVavJXZIvLYtRfioRLL2tZNs40Bbz4dbXKLX"
-    },
-    {
-      "name": "Vladimir Plotvinov",
-      "description": "Openbuilders DEV",
-      "walletAddress": "UQAt_V50zZzQW7hjFtqaj20ZPnN7fp4F5X_cKQWxkt_DMBS4"
-    },
-    {
-      "name": "Eugene Trifonov",
-      "description": "The Daily TON Writer",
-      "walletAddress": "UQAp2qjgaFs-NDHsMvsMNSxXTeJU78LLoBGJ3QD1zk-1ywun"
-    },
-    {
-      "name": "Boltovsky",
-      "description": "Bolt Foundation",
-      "walletAddress": "UQBxLLK2E-3q_Kyee3mxiOPTh-ohxBXW5OTAz7_6arcDHYMg"
-    },
-    {
-      "name": "Anna @miulog",
-      "description": "@miulog",
-      "walletAddress": "UQARFF7q1nV13E53Q6SPMPu5VaQ27YYUfLjdYCJYlC231WEN"
-    },
-    {
-      "name": "Vladimir",
-      "description": "Blum CTO",
-      "imageUrl": "https://ibb.co/WWTHNDfG",
-      "walletAddress": "UQAUPvwAt57VuqYvGDWkfubIz_RhmUcCUhTKsJx8NcMMF7Og"
-    },
-    {
-      "name": "Svyatoslav Konenkov",
-      "description": "https://t.me/konenkov_official",
-      "imageUrl": "https://cryptorussia.ru/wp-content/uploads/2024/05/svyatoslav-konenkov.png",
-      "walletAddress": "UQBQKxNqoEm5OCsSKsD9DA-AN3xnE1H7fbHCrpsUTwAKPRg-"
-    },
-    {
-      "name": "prakha", 
-      "description": "https://t.me/zeroxcholy",
-      "walletAddress": "UQB0c39gPMNCsGMZI146Lf1UvWuLJSPI-tGua7WX-il1ToFw"
-    },
-    {
-      "name": "Sonya",
-      "description": "Hydra Founder",
-      "walletAddress": "UQDrs0xYdwqerhATcPAezRWaXTXXqkoMGpB-kK6PlkylCdK8"
-    },
-    {
-      "name": "Marat khamidullov",
-      "description": "CMO Axiomica Lab",
-      "imageUrl": "https://ibb.co/dRNy1V8",
-      "walletAddress": "UQCw5YegJa7cDk54A_1gR6gxqi8j5TZQEtyZm-0XeYnK8QkR"
-    },
-    {
-      "name": "Inal Kardan",
-      "description": "TON Ventures",
-      "imageUrl": "https://indiagdc.com/wp-content/uploads/2023/10/Inal-Kardanov-TON-Foundation.png",
-      "walletAddress": "UQBw34IV4UHIZENkYc0FStO-qu_NcI7Woa53q7vLugBhcVti"
-    },
-    {
-      "name": "Beybut",
-      "description": "Founder / CEO Donuts.tg",
-      "walletAddress": "UQALyrWQNCxR3RFcape5ZMxClDHpySrEO93lQiaM9ZWUnFUT"
-    }
-  ]
+  {
+    "name": "Pavel Durov",
+    "description": "Telegram",
+    "walletAddress": "UQDYzZmfsrGzhObKJUw4gzdeIxEai3jAFbiGKGwxvxHinf4K",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg/640px-TechCrunch_Disrupt_Europe_Berlin_2013_%2810536888854%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "Vudi Kingyru",
+    "description": "Investment Kingyru 💎",
+    "walletAddress": "UQAj-RQTlNNwjkuRVYWdfamU0jjvQbH31lkxTw-osulj4tdj",
+    "imageUrl": "https://i.ibb.co/qF132C2Z/Screenshot-2025-04-08-at-16-28-02.png"
+  },
+  {
+    "name": "Andrey Rogozov",
+    "description": "The Open Platform",
+    "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz"
+  },
+  {
+    "name": "Alena Shmalko",
+    "description": "TON Foundation",
+    "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN"
+  },
+  {
+    "name": "Michele Inetovsky",
+    "description": "swap.coffee",
+    "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF"
+  },
+  {
+    "name": "Manuel Stotz",
+    "description": "TON Foundation",
+    "walletAddress": "UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV",
+    "imageUrl": "https://mecollabevents.com/wp-content/uploads/2023/02/Manuel-Stotz-768x987.jpg"
+  },
+  {
+    "name": "Aleksandr Shepelev",
+    "description": "xRocket",
+    "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
+  },
+  {
+    "name": "Evilzeus",
+    "description": "Life in the Crypto",
+    "walletAddress": "UQDzvMrhLQFR8jUUgHQngDSbtcNExqPxvEt2_cWDpS2vnEqx"
+  },
+  {
+    "name": "Ilya Setsko",
+    "description": "FPIBank",
+    "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg",
+    "imageUrl": "https://i.ibb.co/GQJTwpn5/Screenshot-2025-04-08-at-16-25-00.png"
+  },
+  {
+    "name": "КриптоДед",
+    "description": "Автор Канала КриптоДед",
+    "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
+    "imageUrl": "https://ibb.co/hxZcQDQv"
+  },
+  {
+    "name": "Alexey Toropov",
+    "description": "TON Society",
+    "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m"
+  },
+  {
+    "name": "w0rm bLue",
+    "description": "Club 100",
+    "walletAddress": "UQD3L3R9zVwobj7b3gdieI5_JgYgXQ_kMwRRCHSxjLIbH47c",
+    "imageUrl": "https://static10.tgstat.ru/channels/_0/cb/cb90466fb8b61f267e132602cecd4c34.jpg"
+  },
+  {
+    "name": "Heydenis",
+    "description": "cryptodays",
+    "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
+    "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
+  },
+  {
+    "name": "Brazo",
+    "description": "Vibes",
+    "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
+    "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
+  },
+  {
+    "name": "Malena Rioni",
+    "description": "TON Georgia",
+    "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
+    "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
+  },
+  {
+    "name": "Stanislav",
+    "description": "ton2k",
+    "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
+    "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
+  },
+  {
+    "name": "Julia Innovator",
+    "description": "aquaprotocol",
+    "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
+    "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+  },
+  {
+    "name": "Anton Toroptsev",
+    "description": "Blum COO",
+    "imageUrl": "https://media.licdn.com/dms/image/C4D22AQGUW4Uyz1rzbQ/feedshare-shrink_2048_1536/0/1580485666774?e=2147483647&v=beta&t=e_vJXjCBToC2JCytX_gbcHDAzkaQLHIwve_dDQlE5jg",
+    "walletAddress": "UQAmrolluFXSz9un62hUirW5WQuNNLWltCJV4j3jTpULh8bR"
+  },
+  {
+    "name": "Alexander Sokolovskiy",
+    "description": "Founder X Empire",
+    "imageUrl": "https://info-hit.ru/upload/iblock/941/jfPCjTKUHWA.jpg",
+    "walletAddress": "UQAMkZm7UI0MTiztMWk6XsH0NIQWNkxVc7q9LBiVOgWaGlBQ"
+  },
+  {
+    "name": "RocketMan",
+    "description": "Xrocket CEO RocketMan",
+    "walletAddress": "UQBeSVbf7VzXMA4xbBQtR8tniXxubZOfTmEPLvE5KkAQiBDb"
+  },
+  {
+    "name": "k_Mapkc",
+    "description": "https://t.me/marx_capital",
+    "walletAddress": "UQBuc_pGbNe3XOXA83-5DtZGhJnRRR66nuOwEISo2SyKKuUt"
+  },
+  {
+    "name": "Mr. Fridayboy",
+    "description": "Influencer DFC",
+    "walletAddress": "UQD4XmYu08LnTVavJXZIvLYtRfioRLL2tZNs40Bbz4dbXKLX"
+  },
+  {
+    "name": "Vladimir Plotvinov",
+    "description": "Openbuilders DEV",
+    "walletAddress": "UQAt_V50zZzQW7hjFtqaj20ZPnN7fp4F5X_cKQWxkt_DMBS4"
+  },
+  {
+    "name": "Eugene Trifonov",
+    "description": "The Daily TON Writer",
+    "walletAddress": "UQAp2qjgaFs-NDHsMvsMNSxXTeJU78LLoBGJ3QD1zk-1ywun"
+  },
+  {
+    "name": "Boltovsky",
+    "description": "Bolt Foundation",
+    "walletAddress": "UQBxLLK2E-3q_Kyee3mxiOPTh-ohxBXW5OTAz7_6arcDHYMg"
+  },
+  {
+    "name": "Anna @miulog",
+    "description": "@miulog",
+    "walletAddress": "UQARFF7q1nV13E53Q6SPMPu5VaQ27YYUfLjdYCJYlC231WEN"
+  },
+  {
+    "name": "Vladimir",
+    "description": "Blum CTO",
+    "imageUrl": "https://ibb.co/WWTHNDfG",
+    "walletAddress": "UQAUPvwAt57VuqYvGDWkfubIz_RhmUcCUhTKsJx8NcMMF7Og"
+  },
+  {
+    "name": "Svyatoslav Konenkov",
+    "description": "https://t.me/konenkov_official",
+    "imageUrl": "https://cryptorussia.ru/wp-content/uploads/2024/05/svyatoslav-konenkov.png",
+    "walletAddress": "UQBQKxNqoEm5OCsSKsD9DA-AN3xnE1H7fbHCrpsUTwAKPRg-"
+  },
+  {
+    "name": "prakha",
+    "description": "https://t.me/zeroxcholy",
+    "walletAddress": "UQB0c39gPMNCsGMZI146Lf1UvWuLJSPI-tGua7WX-il1ToFw"
+  },
+  {
+    "name": "Sonya",
+    "description": "Hydra Founder",
+    "walletAddress": "UQDrs0xYdwqerhATcPAezRWaXTXXqkoMGpB-kK6PlkylCdK8"
+  },
+  {
+    "name": "Marat khamidullov",
+    "description": "CMO Axiomica Lab",
+    "imageUrl": "https://ibb.co/dRNy1V8",
+    "walletAddress": "UQCw5YegJa7cDk54A_1gR6gxqi8j5TZQEtyZm-0XeYnK8QkR"
+  },
+  {
+    "name": "Inal Kardan",
+    "description": "TON Ventures",
+    "imageUrl": "https://indiagdc.com/wp-content/uploads/2023/10/Inal-Kardanov-TON-Foundation.png",
+    "walletAddress": "UQBw34IV4UHIZENkYc0FStO-qu_NcI7Woa53q7vLugBhcVti"
+  },
+  {
+    "name": "Beybut",
+    "description": "Founder / CEO Donuts.tg",
+    "walletAddress": "UQALyrWQNCxR3RFcape5ZMxClDHpySrEO93lQiaM9ZWUnFUT"
+  },
+  {
+    "name": "Евгений Александрович",
+    "description": "SEO Decentralised Solutions",
+    "walletAddress": "UQAQQ__J5zxL06oB8pdAjkG3kJLcU20Fddj18TfwS78r6z_l"
+  }
+]
