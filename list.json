@@ -94,5 +94,11 @@
         "description": "aquaprotocol",
         "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+    },
+        {
+        "name": "Danya Savin",
+        "description": "Savin",
+        "walletAddress": "UQBHsPgDw8NeXs-84Ml6nTM6FC2vJ6xQLEMbuMitIycc8cal",
+        "imageUrl": "https://static2.tgstat.ru/channels/_0/e7/e71e330ea8e5cd9e7874f5ab2b67306c.jpg"
     }
   ]
