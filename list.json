@@ -131,5 +131,10 @@
       "name": "Eugene Trifonov",
       "description": "The Daily TON Writer",
       "walletAddress": "UQAp2qjgaFs-NDHsMvsMNSxXTeJU78LLoBGJ3QD1zk-1ywun"
+    },
+    {
+      "name" "Boltovsky",
+      "description": "Bolt Foundation",
+      "walletAddress": "UQBxLLK2E-3q_Kyee3mxiOPTh-ohxBXW5OTAz7_6arcDHYMg"
     }
   ]
