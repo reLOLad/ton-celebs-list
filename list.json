@@ -169,5 +169,11 @@
       "description": "CMO Axiomica Lab",
       "imageUrl": "https://ibb.co/dRNy1V8",
       "walletAddress": "UQCw5YegJa7cDk54A_1gR6gxqi8j5TZQEtyZm-0XeYnK8QkR"
+    },
+    {
+      "name": "Inal Kardan",
+      "description": "TON Ventures",
+      "imageUrl": "https://indiagdc.com/wp-content/uploads/2023/10/Inal-Kardanov-TON-Foundation.png",
+      "walletAddress": "UQBw34IV4UHIZENkYc0FStO-qu_NcI7Woa53q7vLugBhcVti"
     }
   ]
