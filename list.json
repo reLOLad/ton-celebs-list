@@ -141,5 +141,11 @@
       "name": "Anna @miulog",
       "description": "@miulog",
       "walletAddress": "UQARFF7q1nV13E53Q6SPMPu5VaQ27YYUfLjdYCJYlC231WEN"
+    },
+    {
+      "name": "Vladimir",
+      "description": "Blum CTO",
+      "imageUrl": "https://ibb.co/WWTHNDfG",
+      "walletAddress": "UQAUPvwAt57VuqYvGDWkfubIz_RhmUcCUhTKsJx8NcMMF7Og"
     }
   ]
