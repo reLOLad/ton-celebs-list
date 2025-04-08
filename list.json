@@ -139,5 +139,11 @@
       "name": "Tolya Yanot",
       "description": "TON Core",
       "walletAddress": "EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG"
+    },
+    {
+      "name": "Ilya Kuznetsov",
+      "description": "kuznetsovton",
+      "walletAddress": "UQDybcNygAWpCAe6sTDp4edPeBuLaNsl2QQHrhjcZDOC2olR",
+      "imageUrl": "https://i.ibb.co/pBDMLgmj/photo-2025-04-09-00-39-32.jpg)"
     }
-  ]
+]
