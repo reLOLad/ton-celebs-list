@@ -157,5 +157,11 @@
       "description": "Give me TON",
       "walletAddress": "UQDQY1a_xpLq6b3LjH5MUIV1-6tO7I4fO3VqNuGY2BIo3QaC",
       "imageUrl": "https://static5.tgstat.ru/channels/_0/f0/f0cc1df020831faab0f7cd7232aa7fc8.jpg"
+    },
+    {
+      "name": "Meta",
+      "description": "Metasilense",
+      "walletAddress": "UQC6X5Vy8ST8Dnn5hVer8yY5xBK-Qm9IHmDgLLsHveRvjxrq",
+      "imageUrl": "https://static5.tgstat.ru/channels/_0/fb/fbed3efb1405734a8ca61a1238df36f7.jpg"
     }
   ]
