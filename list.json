@@ -101,6 +101,12 @@
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
     },
     {
+        "name": "Ilya Bulychev",
+        "description": "Farmix",
+        "walletAddress": "UQC228vvLVzjK4t7CUfRhlQuxJqfB5sJzAZNEilvbpY6CzZk",
+        "imageUrl": "https://i.imgur.com/loPCHuY.jpeg"
+    },
+    {
         "name": "Dictator",
         "description": "Dictator Crypto",
         "walletAddress": "UQBF0nJnIPRNlEtpLUBcfah2b0I7Xf09sGDk7EDZeafhBOCt",
