@@ -8,32 +8,155 @@
     {
       "name": "Vudi Kingyru",
       "description": "Investment Kingyru 💎",
-      "walletAddress": "UQAj-RQTlNNwjkuRVYWdfamU0jjvQbH31lkxTw-osulj4tdj"
+      "walletAddress": "UQAj-RQTlNNwjkuRVYWdfamU0jjvQbH31lkxTw-osulj4tdj",
+      "imageUrl": "https://i.ibb.co/qF132C2Z/Screenshot-2025-04-08-at-16-28-02.png"
     },
     {
       "name": "Andrey Rogozov",
       "description": "The Open Platform",
-      "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz"
+      "walletAddress": "UQAw0Zxb55PR2HtfD793UTXggGNNZJcTKh3bh4u4X-nMWMAz",
+      "imageUrl": "https://www.sostav.ru/images/news/2021/03/30/ca9z4x0a.png"
     },
     {
       "name": "Alena Shmalko",
       "description": "TON Foundation",
-      "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN"
+      "walletAddress": "UQCdktznSxu0U4TyeRszCI7XNDrtGud5XrMsHr9c0gOGIskN",
+      "imageUrl": "https://i.ibb.co/5XRhjGCk/Screenshot-2025-04-08-at-17-18-24.png"
     },
     {
       "name": "Michele Inetovsky",
       "description": "swap.coffee",
-      "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF"
+      "walletAddress": "UQCJoBrHlYgNgKMAMT5howVjiOXWbU7FewzGSzzN54rvxZIF",
+      "imageUrl": "https://i.ibb.co/spD5DBGL/2025-04-08-17-20-12.jpg"
     },
     {
       "name": "Manuel Stotz",
       "description": "TON Foundation",
-      "walletAddress": "UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV"
+      "walletAddress": "UQCujSw2bK73RMUCggYaBrP7rcGQqF5dSCNEcxoZ-W-CZvxV",
+      "imageUrl": "https://mecollabevents.com/wp-content/uploads/2023/02/Manuel-Stotz-768x987.jpg"
     },
     {
       "name": "Aleksandr Shepelev",
       "description": "xRocket",
-      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK"
+      "walletAddress": "UQCYgggSxp2e0-VpAWllGqr97tVkCvSivF16hOfrawgfV1OK",
+      "imageUrl": "https://i.ibb.co/35jbrHTH/1535785064287.jpg"
+    },
+    {
+      "name": "Evilzeus",
+      "description": "Life in the Crypto",
+      "walletAddress": "UQDzvMrhLQFR8jUUgHQngDSbtcNExqPxvEt2_cWDpS2vnEqx"
+    },
+    {
+      "name": "Ilya Setsko",
+      "description": "FPIBank",
+      "walletAddress": "UQAymJPekbCDYvWqFtOkfqMiH6b6N-xXxkIuDj3KODin62Dg",
+      "imageUrl": "https://i.ibb.co/GQJTwpn5/Screenshot-2025-04-08-at-16-25-00.png"
+    },
+    {
+      "name": "КриптоДед",
+      "description": "Автор Канала КриптоДед",
+      "walletAddress": "UQAqBgfAfzswAqFVTMpLq6j50P3zuA3z8DaCdT9T1ELxyOhZ",
+      "imageUrl": "https://i.ibb.co/35Mv6B6H/avaOncl.png"
+    },
+    {
+      "name": "Alexey Toropov",
+      "description": "TON Society",
+      "walletAddress": "UQA4QwKBLNi5rOZxfNleziZVoeRE7EcHmUAfVMkYU5-pEu8m",
+      "imageUrl": "https://i.ibb.co/BKtR4pxd/1722775701210.jpg"
+    },
+    {
+      "name": "w0rm bLue",
+      "description": "Club 100",
+      "walletAddress": "UQD3L3R9zVwobj7b3gdieI5_JgYgXQ_kMwRRCHSxjLIbH47c",
+      "imageUrl": "https://static10.tgstat.ru/channels/_0/cb/cb90466fb8b61f267e132602cecd4c34.jpg"
+    },
+    {
+      "name": "Heydenis",
+      "description": "cryptodays",
+      "walletAddress": "UQDTYC9ZBRqwlMOskqmLaIYhwnwt9c7dnG77xcHYnOWAqeNq",
+      "imageUrl": "https://i.imgur.com/tZt4qyV.jpeg"
+    },
+    {
+      "name": "Brazo",
+      "description": "Vibes",
+      "walletAddress": "UQA9hFFA3JlXXNoXP4SGUbrPAAMyukE4WBCBHVkDnzpDZf5w",
+      "imageUrl": "https://static6.tgstat.ru/channels/_0/98/9808d5422e45ce7d0ca86cf3e1568a9c.jpg"
+    },
+    {
+      "name": "Malena Rioni",
+      "description": "TON Georgia",
+      "walletAddress": "UQBlQO7cBZ5mej-EdccYJR0v9VFDSKYig44K-yYQuFxD8npW",
+      "imageUrl": "https://i.imgur.com/0jfzKtm.jpeg"
+    },
+    {
+      "name": "Stanislav",
+      "description": "ton2k",
+      "walletAddress": "UQDQokR6vddVdZLN-MFVlv2W9B_pvfLFtVxhEb1X2p5MtnZB",
+      "imageUrl": "https://static9.tgstat.ru/channels/_0/45/454f1f79b5d4483bec97e09582c9ddb5.jpg"
+    },
+    {
+      "name": "Julia Innovator",
+      "description": "aquaprotocol",
+      "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
+      "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+    },
+    {
+      "name": "Kirill Malev",
+      "description": "The Open Platform",
+      "walletAddress": "EQCnM2nIemDP3fRihoXiuyo8ETt0LILd1LUqFlZba7nErMv_"
+    },
+    {
+      "name": "Narek",
+      "description": "TON Tech",
+      "walletAddress": "EQD4FPq-PRDieyQKkizFTRtSDyucUIqrj0v_zXJmqaDp6_0t"
+    },
+    {
+      "name": "Oleg Illarionov",
+      "description": "Tonkeeper",
+      "walletAddress": "EQDpoHxlmYzVN9asLEyd3XOimSlVJxATKMhzWFCMy_ho-sjt"
+    },
+    {
+      "name": "Ivan Gusev",
+      "description": "GetGems",
+      "walletAddress": "EQAFD1-qFIhe9sS-Zm9Nfpo9b_OBS2O0RUEsBuS0lG9APzm6"
+    },
+    {
+      "name": "Mikhail Gavrilov",
+      "description": "TON Play",
+      "walletAddress": "EQCqGkIFGmuV-zVZf1RaEFGCfvbxI9yiLSErpP-nLChJ9VGF"
+    },
+    {
+      "name": "Sergey Udin",
+      "description": "Whales",
+      "walletAddress": "EQABKYFl0SWU72G6Vq123zdQ1w_8gn3kWv5eYPohCxOZH8J_"
+    },
+    {
+      "name": "Steve Yun",
+      "description": "TON Foundation",
+      "walletAddress": "EQBnE7V2jE09hWkCg4FmkFr2GvYRtvzZCDbn1akZBT4mag3F"
+    },
+    {
+      "name": "Tolya Yanot",
+      "description": "TON Core",
+      "walletAddress": "EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG"
+    },
+    {
+      "name": "Nick Nekilov",
+      "description": "DeDust",
+      "walletAddress": "UQDz0wQL6EEdgbPkFgS7nNmywzr468AvgLyhH7PIMALxPEND",
+      "imageUrl": "https://i.imgur.com/7KzGaF7.png"
+    },
+    {
+      "name": "Mr FreeMan",
+      "description": "TONNEL Marketplace",
+      "walletAddress": "UQBSV_u2NPNNymFZgX0VqRwu2v6cTJo7symgqKFwzcNZ7me4",
+      "imageUrl": "https://i.imgur.com/VN10G7P.png"
+    },
+    {
+      "name": "Kirill Filimonov",
+      "description": "Give me TON",
+      "walletAddress": "UQDQY1a_xpLq6b3LjH5MUIV1-6tO7I4fO3VqNuGY2BIo3QaC",
+      "imageUrl": "https://static5.tgstat.ru/channels/_0/f0/f0cc1df020831faab0f7cd7232aa7fc8.jpg"
     },
     {
       "name": "Meta",
@@ -41,4 +164,4 @@
       "walletAddress": "UQC6X5Vy8ST8Dnn5hVer8yY5xBK-Qm9IHmDgLLsHveRvjxrq",
       "imageUrl": "https://static5.tgstat.ru/channels/_0/fb/fbed3efb1405734a8ca61a1238df36f7.jpg"
     }
-  ] 
+  ]
