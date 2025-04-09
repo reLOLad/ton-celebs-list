@@ -101,11 +101,16 @@
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
     },
     {
-        "name": "Smash",
+        "name": "Rostislav Vr",
+        "description": "Diamond Bazar",
+        "walletAddress": "UQAkbIA32zna94YX1Oii371zF-CHOPHB8DLIJa1QBcdNNDRv",
+        "imageUrl": "https://static1.tgstat.ru/channels/_0/80/808062b11b3fa787609b34dbb67a570d.jpg"
+    },
+    {
+       "name": "Smash",
         "description": "YO vs Smash, Smash",
         "walletAddress": "UQCmGMlUg8IMXGL3ujMT-BNcMFwRxymWCCHopLPFp-h1AU2q",
         "imageUrl": "https://i.ibb.co/dwjzFHJ1/photo-2022-12-07-18-53-16.jpg"
-
     },
     {
         "name": "Igor Overbafer",
