@@ -345,5 +345,11 @@
     "description": "STON.fi",
     "walletAddress": "UQDSE2BHJi4Qowu4jgvqQ3_4-KFrR2x6DqPzFkMGczCgoLcK",
     "imageUrl": "https://static7.tgstat.ru/channels/_0/e8/e8c980dc7c97bcdbeb5408533c4cff70.jpg"
+  },
+  {
+    "name": "load",
+    "description": "rechannel",
+    "walletAddress": "UQDe-Pylwj2y_R9yNA0kY3iv8EueM8TTdEHZyvaK6ecype93",
+    "imageUrl": "https://i.ibb.co/ZRc0j43G/IMG-0951.jpg"
   }
 ]
