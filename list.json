@@ -145,5 +145,11 @@
       "description": "DeDust",
       "walletAddress": "UQDz0wQL6EEdgbPkFgS7nNmywzr468AvgLyhH7PIMALxPEND",
       "imageUrl": "https://i.imgur.com/7KzGaF7.png"
+    },
+    {
+      "name": "Mr FreeMan",
+      "description": "TONNEL Marketplace",
+      "walletAddress": "UQBSV_u2NPNNymFZgX0VqRwu2v6cTJo7symgqKFwzcNZ7me4",
+      "imageUrl": "https://i.imgur.com/VN10G7P.png"
     }
   ]
