@@ -163,5 +163,11 @@
       "description": "Metasilense",
       "walletAddress": "UQC6X5Vy8ST8Dnn5hVer8yY5xBK-Qm9IHmDgLLsHveRvjxrq",
       "imageUrl": "https://static5.tgstat.ru/channels/_0/fb/fbed3efb1405734a8ca61a1238df36f7.jpg"
+    },
+    {
+      "name": "Max Tonlow",
+      "description": "STON.fi",
+      "walletAddress": "UQDSE2BHJi4Qowu4jgvqQ3_4-KFrR2x6DqPzFkMGczCgoLcK",
+      "imageUrl": "https://static7.tgstat.ru/channels/_0/e8/e8c980dc7c97bcdbeb5408533c4cff70.jpg"
     }
   ]
