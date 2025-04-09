@@ -99,6 +99,12 @@
         "description": "aquaprotocol",
         "walletAddress": "UQDDTZbtGRu1C7IaFFOY_jvR-CqHmvzkC1ngKwJ4YvbtZZEV",
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
+    },
+    {
+        "name": "Igor Overbafer",
+        "description": "GOVNO token",
+        "walletAddress": "UQCOnL8lfqb8ZEHbkR8_DzoCj7YCNZPQ84X2xMdc8ijLt1Pt",
+        "imageUrl": "https://lastfm.freetls.fastly.net/i/u/ar0/5c394ac84eee224c8f04e75e35636947.jpg"
     }, 
     {
       "name": "zicelaqo",
@@ -206,4 +212,4 @@
       "walletAddress": "UQDSE2BHJi4Qowu4jgvqQ3_4-KFrR2x6DqPzFkMGczCgoLcK",
       "imageUrl": "https://static7.tgstat.ru/channels/_0/e8/e8c980dc7c97bcdbeb5408533c4cff70.jpg"
     }
-  ]
+]
