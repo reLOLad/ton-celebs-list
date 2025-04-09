@@ -101,6 +101,12 @@
         "imageUrl": "https://static1.tgstat.ru/channels/_0/79/79a8526ca71650d6c21bd8f13cbc8067.jpg"
     },
     {
+        "name": "Vlad Sepezho",
+        "description": "EVAA",
+        "walletAddress": "UQDtLphQq6LfgQIrEgMB3dpdQPSpbZ17tr4E2to-5Hf1SPZH",
+        "imageUrl": "https://i.imgur.com/MfaRUp1.jpeg"
+    },
+    {
         "name": "Ilya Bulychev",
         "description": "Farmix",
         "walletAddress": "UQC228vvLVzjK4t7CUfRhlQuxJqfB5sJzAZNEilvbpY6CzZk",
