@@ -139,5 +139,11 @@
       "name": "Tolya Yanot",
       "description": "TON Core",
       "walletAddress": "EQA0i8-CdGnF_DhUHHf92R1ONH6sIA9vLZ_WLcCIhfBBXwtG"
+    },
+    {
+      "name": "Nick Nekilov",
+      "description": "DeDust",
+      "walletAddress": "UQDz0wQL6EEdgbPkFgS7nNmywzr468AvgLyhH7PIMALxPEND",
+      "imageUrl": "https://i.imgur.com/7KzGaF7.png"
     }
   ]
